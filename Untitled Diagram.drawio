@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T19:38:22.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="MZ0hUuFi6HOFrKGp67S4" version="15.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-01T19:44:39.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="2KAVEs1Dc9TatjugumTu" version="15.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="880" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -419,25 +419,25 @@
           <mxGeometry x="990" y="390" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="t5rs158Kav-tkwi4VOfK-50" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#000000;direction=north;labelBackgroundColor=default;sketch=0;fontColor=default;fillColor=#FFFFFF;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1045" y="340" width="20" height="40" as="geometry" />
+          <mxGeometry x="1040" y="345" width="21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t5rs158Kav-tkwi4VOfK-53" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#000000;direction=north;labelBackgroundColor=default;sketch=0;fontColor=default;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1032" y="310" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5rs158Kav-tkwi4VOfK-54" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#000000;direction=north;labelBackgroundColor=default;sketch=0;fontColor=default;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1065" y="330" width="20" height="30" as="geometry" />
+          <mxGeometry x="1056" y="330" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t5rs158Kav-tkwi4VOfK-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1037" y="299" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="t5rs158Kav-tkwi4VOfK-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1070" y="320" width="10" height="10" as="geometry" />
+          <mxGeometry x="1061" y="320" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="t5rs158Kav-tkwi4VOfK-58" value="Limpeza_Entrega" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;sketch=0;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1041" y="289" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t5rs158Kav-tkwi4VOfK-59" value="Revisao_Entrega" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;sketch=0;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1100" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="1089" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t5rs158Kav-tkwi4VOfK-60" value="" style="line;strokeWidth=1;direction=south;html=1;labelBackgroundColor=default;sketch=0;fontColor=default;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="995" y="500" width="10" height="76" as="geometry" />
@@ -650,7 +650,7 @@
           <mxGeometry x="987" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t5rs158Kav-tkwi4VOfK-130" value="&lt;h1&gt;Locadora de Veiculos&lt;/h1&gt;&lt;p&gt;DER - Locadora de Veiculos&lt;/p&gt;&lt;p&gt;Aluno: Carlos Roberto da Costa JR&lt;/p&gt;&lt;p&gt;CPF: 039.999.781-47&lt;/p&gt;&lt;p&gt;Data: 01/10/2021&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=default;sketch=0;fontColor=default;align=center;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1320" y="719" width="200" height="181" as="geometry" />
+          <mxGeometry x="90" y="549" width="200" height="181" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
