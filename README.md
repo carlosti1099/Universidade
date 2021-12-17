@@ -1,2 +1,2 @@
 # Universidade
-DER - Biblioteca Universidade
+# Repositório de algumas atividades feitas pela universidade durante o curso de Engenharia da Computação...
